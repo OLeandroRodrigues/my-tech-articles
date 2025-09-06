@@ -1,0 +1,28 @@
+# 📚 My Tech Articles
+
+A collection of my technical articles, originally published on [Medium](https://medium.com/@oleandroprodrigues).  
+This repository works as my **writing portfolio**, showcasing my studies and reflections on **Computer Science, Mathematics, and Artificial Intelligence**.  
+
+---
+
+## 📅 Articles Timeline
+
+| Date       | Title                                                                |
+|------------|----------------------------------------------------------------------|
+| 2024-08-09 | [How to Measure Information](https://medium.com/@oleandroprodrigues/how-to-measure-information-9faa6fd37606)                                            |
+| 2024-08-24 | [Prefix Code Design for a Memoryless Source via Huffman Algorithm](https://medium.com/@oleandroprodrigues/prefix-code-design-for-a-memoryless-source-via-huffman-algorithm-0fb8402efaf8)      |
+
+---
+
+## ✨ About This Repo
+
+- 📝 All articles are first published on [Medium](https://medium.com/@oleandroprodrigues).  
+- 📂 This repo organizes them in a single place for easy access and as part of my **portfolio**.  
+- 🎯 Topics include: Information Theory, Algorithms, Applied Statistics, Artificial Intelligence, and Software Engineering.  
+
+---
+
+📬 **Follow my work**  
+- [Medium](https://medium.com/@oleandroprodrigues)  
+- [LinkedIn](https://www.linkedin.com/in/leandrorodrigueso/)  
+- GitHub: [@oleandrorodrigues](https://github.com/oleandrorodrigues)
