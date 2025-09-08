@@ -11,6 +11,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 |------------|----------------------------------------------------------------------|
 | 2024-08-09 | [How to Measure Information](https://medium.com/@oleandroprodrigues/how-to-measure-information-9faa6fd37606)                                            |
 | 2024-08-24 | [Prefix Code Design for a Memoryless Source via Huffman Algorithm](https://medium.com/@oleandroprodrigues/prefix-code-design-for-a-memoryless-source-via-huffman-algorithm-0fb8402efaf8)      |
+| 2024-09-08 | [Prefix Code Design for a Memoryless Source via Kraft Algorithm](https://medium.com/@oleandroprodrigues/prefix-code-design-for-a-memoryless-source-via-kraft-algorithm-7c0620a6d07b)      |
 
 ---
 
