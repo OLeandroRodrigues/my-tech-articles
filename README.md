@@ -13,6 +13,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2024-08-24 | [Prefix Code Design for a Memoryless Source via Huffman Algorithm](https://medium.com/@oleandroprodrigues/prefix-code-design-for-a-memoryless-source-via-huffman-algorithm-0fb8402efaf8)      |
 | 2024-09-08 | [Prefix Code Design for a Memoryless Source via Kraft Algorithm](https://medium.com/@oleandroprodrigues/prefix-code-design-for-a-memoryless-source-via-kraft-algorithm-7c0620a6d07b)      |
 | 2024-09-22 | [Prior and Posterior Probabilities in Discrete Memoryless Channels](https://medium.com/@oleandroprodrigues/prior-and-posterior-probabilities-in-discrete-memoryless-channels-5f53a2addaaa)      |
+| 2024-10-11 | [When Equations Become Algorithms — From Bayes’ Theorem to Python Implementation](https://medium.com/@oleandroprodrigues/when-equations-become-algorithms-a791d57f70eb)      |
 
 ---
 
