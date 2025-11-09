@@ -15,6 +15,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2025-09-22 | [Prior and Posterior Probabilities in Discrete Memoryless Channels](https://medium.com/@oleandroprodrigues/prior-and-posterior-probabilities-in-discrete-memoryless-channels-5f53a2addaaa) |
 | 2025-10-11 | [When Equations Become Algorithms — From Bayes’ Theorem to Python Implementation](https://medium.com/@oleandroprodrigues/when-equations-become-algorithms-a791d57f70eb) |
 | 2025-11-03 | 🧮 **Linear Algebra Visual — Part 1: What Is a Linear Transformation?** ([English](https://www.linkedin.com/pulse/linear-algebra-visual-part-1-what-transformation-leandro-rodrigues-vtidf/)) · ([Português](https://www.linkedin.com/pulse/s%C3%A9rie-%C3%A1lgebra-linear-visual-parte-1-o-que-%C3%A9-uma-leandro-rodrigues-yocnf/)) |
+| 2025-11-09 | 🧮 **Linear Algebra Visual — Part 2: Eigenvectors and Eigenvalues — the invariant directions of the transformation** ([English](https://www.linkedin.com/pulse/linear-algebra-visual-part-2-eigenvectors-eigenvalues-rodrigues-kcmaf/)) · ([Português](https://www.linkedin.com/pulse/s%C3%A9rie-%C3%A1lgebra-linear-visual-parte-2-autovetores-e-da-rodrigues-4pz6f/)) |
 
 ---
 
@@ -22,8 +23,10 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 
 | Part | Title | Language | Link |
 |------|--------|-----------|------|
-| 1️⃣ | What Is a Linear Transformation? | 🇬🇧 English | [Read on LinkedIn](https://www.linkedin.com/pulse/linear-algebra-visual-part-1-what-transformation-leandro-rodrigues-vtidf/) |
+| 1️⃣ | What Is a Linear Transformation? | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/linear-algebra-visual-part-1-what-transformation-leandro-rodrigues-vtidf/) |
 | 1️⃣ | O que é uma Transformação Linear? | 🇧🇷 Portuguese | [Ler no LinkedIn](https://www.linkedin.com/pulse/s%C3%A9rie-%C3%A1lgebra-linear-visual-parte-1-o-que-%C3%A9-uma-leandro-rodrigues-yocnf/) |
+| 2️⃣ | Eigenvectors and Eigenvalues — the invariant directions of the transformation | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/linear-algebra-visual-part-2-eigenvectors-eigenvalues-rodrigues-kcmaf/) |
+| 2️⃣ | Autovetores e Autovalores — as direções invariantes da transformação | 🇧🇷 Portuguese | [Ler no LinkedIn](https://www.linkedin.com/pulse/s%C3%A9rie-%C3%A1lgebra-linear-visual-parte-2-autovetores-e-da-rodrigues-4pz6f/) |
 
 🧩 *This series connects mathematical intuition with computational visualization — bridging Linear Algebra, Geometry, and Python.*
 
