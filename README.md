@@ -21,7 +21,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2025-12-22 | [Linear Algebra Visual — Part 5: Diagonalization — viewing the transformation from the right bases](https://www.linkedin.com/pulse/linear-algebra-visual-part-5-diagonalization-viewing-from-rodrigues-ewibc/) ([English](https://www.linkedin.com/pulse/linear-algebra-visual-part-5-diagonalization-viewing-from-rodrigues-ewibc/)) · ([Português](https://www.linkedin.com/pulse/s%25C3%25A9rie-%25C3%25A1lgebra-linear-visual-parte-5-diagonaliza%25C3%25A7%25C3%25A3o-ver-rodrigues-qhdcc/)) |
 | 2025-12-28 | [Projetar software é projetar escolhas](https://www.linkedin.com/pulse/projetar-software-%25C3%25A9-escolhas-leandro-rodrigues-udhyf) ([Português](https://www.linkedin.com/pulse/projetar-software-%25C3%25A9-escolhas-leandro-rodrigues-udhyf)) |
 | 2025-01-09 | [Big-O Notation: como engenheiros avaliam a eficiência de algoritmos](https://www.linkedin.com/pulse/big-o-notation-como-engenheiros-avaliam-efici%C3%AAncia-de-rodrigues-ksyyf) ([Português](https://www.linkedin.com/pulse/big-o-notation-como-engenheiros-avaliam-efici%C3%AAncia-de-rodrigues-ksyyf)) |
-
+| 2026-01-18 | [Série Álgebra Linear Visual — Part 6: Bases e Mudança de Base — trocando o ponto de vista do espaço (PDF) ]([Português](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf))([Português](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf)) |
 ---
 
 ## 🧮 Linear Algebra Visual Series
@@ -38,6 +38,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 4️⃣ | Determinante e Área — o fator de deformação do espaço | 🇧🇷 Portuguese | [Ler no LinkedIn](https://www.linkedin.com/pulse/s%25C3%25A9rie-%25C3%25A1lgebra-linear-visual-parte-4-determinante-e-%25C3%25A1rea-rodrigues-fkixc/) |
 | 5️⃣ | Diagonalization — viewing the transformation from the right bases | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/linear-algebra-visual-part-5-diagonalization-viewing-from-rodrigues-ewibc/) |
 | 5️⃣ | Diagonalização — ver a transformação do ponto de vista da base certa | 🇧🇷 Portuguese | [Ler no LinkedIn](https://www.linkedin.com/pulse/s%25C3%25A9rie-%25C3%25A1lgebra-linear-visual-parte-5-diagonaliza%25C3%25A7%25C3%25A3o-ver-rodrigues-qhdcc/) |
+| 6️⃣ | Bases e Mudança de Base — trocando o ponto de vista do espaço | 🇧🇷 Portuguese | [PDF](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf) |
 
 🧩 *This series connects mathematical intuition with computational visualization — bridging Linear Algebra, Geometry, and Python.*
 
