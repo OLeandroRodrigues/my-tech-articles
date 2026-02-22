@@ -22,6 +22,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2025-12-28 | [Projetar software é projetar escolhas](https://www.linkedin.com/pulse/projetar-software-%25C3%25A9-escolhas-leandro-rodrigues-udhyf) ([Português](https://www.linkedin.com/pulse/projetar-software-%25C3%25A9-escolhas-leandro-rodrigues-udhyf)) |
 | 2025-01-09 | [Big-O Notation: como engenheiros avaliam a eficiência de algoritmos](https://www.linkedin.com/pulse/big-o-notation-como-engenheiros-avaliam-efici%C3%AAncia-de-rodrigues-ksyyf) ([Português](https://www.linkedin.com/pulse/big-o-notation-como-engenheiros-avaliam-efici%C3%AAncia-de-rodrigues-ksyyf)) |
 | 2026-01-18 | [Série Álgebra Linear Visual — Part 6: Bases e Mudança de Base — trocando o ponto de vista do espaço (PDF) ]([Português](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf))([Português](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf)) |
+| 2026-02-22 | [Graph — Foundations (PDF) ]([English](pdf/en/Graph___Foundations.pdf))([English](pdf/en/Graph___Foundations.pdf)) |
 ---
 
 ## 🧮 Linear Algebra Visual Series
