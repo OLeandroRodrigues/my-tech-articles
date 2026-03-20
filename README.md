@@ -24,8 +24,9 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2026-01-18 | [Série Álgebra Linear Visual — Part 6: Bases e Mudança de Base — trocando o ponto de vista do espaço (PDF) ]([Português](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf))([Português](pdf/pt/bases_e_mudanca_de_base-serie_algebra_linear_visual.pdf)) |
 | 2026-02-22 | [Graph — Foundations (PDF) ]([English](pdf/en/Graph___Foundations.pdf))([English](pdf/en/Graph___Foundations.pdf)) |
 | 2026-02-26 | [Engenharia é Estrutura #1 — Recursão: Definição, Pilha e Fundamento Computacional ](https://www.linkedin.com/pulse/engenharia-%25C3%25A9-estrutura-1-recurs%25C3%25A3o-defini%25C3%25A7%25C3%25A3o-pilha-e-leandro-rodrigues-yneuf) ([Português](https://www.linkedin.com/pulse/engenharia-%25C3%25A9-estrutura-1-recurs%25C3%25A3o-defini%25C3%25A7%25C3%25A3o-pilha-e-leandro-rodrigues-yneuf)) |
-| 2026-03-04 | [Graph — BFS (PDF) ]([English](pdf/en/Graph__BFS.pdf))([English](pdf/en/Graph__BFS.pdf)) |
-| 2026-03-11 | [Graph — DFS (PDF) ]([English](pdf/en/Graph__DFS.pdf))([English](pdf/en/Graph__DFS.pdf)) |
+| 2026-03-04 | [Graph — BFS (PDF)](pdf/en/Graph_BFS.pdf) ([English](pdf/en/Graph_BFS.pdf)) |
+| 2026-03-11 | [Graph — DFS (PDF)](pdf/en/Graph_DFS.pdf) ([English](pdf/en/Graph_DFS.pdf)) |
+| 2026-03-20 | [Graph — Backtracking (PDF)](pdf/en/Graph_Backtracking.pdf) ([English](pdf/en/Graph_Backtracking.pdf)) |
 
 
 ---
