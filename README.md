@@ -28,7 +28,15 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2026-03-11 | [Graph — DFS (PDF)](pdf/en/Graph_DFS.pdf) ([English](pdf/en/Graph_DFS.pdf)) |
 | 2026-03-20 | [Graph — Backtracking (PDF)](pdf/en/Graph_Backtracking.pdf) ([English](pdf/en/Graph_Backtracking.pdf)) |
 | 2026-03-27 | [Graph — Branch And Bound (PDF)](pdf/en/Graph_Branch_and_Bound.pdf) ([English](pdf/en/Graph_Branch_and_Bound.pdf)) |
+| 2026-04-27 | [Curriculum Graph: Why Knowledge Should Be Modeled as a Graph ](https://www.linkedin.com/pulse/aigora-engineering-deep-dive-part-1-leandro-rodrigues-qhnhf)([English](https://www.linkedin.com/pulse/linear-algebra-visual-part-5-diagonalization-viewing-from-rodrigues-ewibc/)) |
 
+---
+
+## 🧮 AIGORA — Engineering Deep Dive 
+
+| Part | Title | Language | Link |
+|------|--------|-----------|------|
+| 1️⃣ | Curriculum Graph: Why Knowledge Should Be Modeled as a Graph | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/aigora-engineering-deep-dive-part-1-leandro-rodrigues-qhnhf) |
 
 ---
 
