@@ -30,6 +30,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2026-03-27 | [Graph — Branch And Bound (PDF)](pdf/en/Graph_Branch_and_Bound.pdf) ([English](pdf/en/Graph_Branch_and_Bound.pdf)) |
 | 2026-04-27 | [Curriculum Graph: Why Knowledge Should Be Modeled as a Graph ](https://www.linkedin.com/pulse/aigora-engineering-deep-dive-part-1-leandro-rodrigues-qhnhf)([English](https://www.linkedin.com/pulse/linear-algebra-visual-part-5-diagonalization-viewing-from-rodrigues-ewibc/)) |
 | 2026-04-30 | [Graph RAG: When Retrieval Needs Structure, Not Just Text ](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf)([English](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf/)) |
+| 2026-05-04 | [ From Content to Knowledge: Designing a Curriculum Graph for AI Systems ](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf)([English](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf/)) |
 
 ---
 
@@ -38,6 +39,8 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | Part | Title | Language | Link |
 |------|--------|-----------|------|
 | 1️⃣ | Curriculum Graph: Why Knowledge Should Be Modeled as a Graph | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/aigora-engineering-deep-dive-part-1-leandro-rodrigues-qhnhf) |
+| 2️⃣ | From Content to Knowledge: Designing a Curriculum Graph for AI Systems | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/from-content-knowledge-designing-curriculum-graph-ai-rodrigues-uqu9f) |
+
 
 ---
 
