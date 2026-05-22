@@ -32,6 +32,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 2026-04-30 | [Graph RAG: When Retrieval Needs Structure, Not Just Text ](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf)([English](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf/)) |
 | 2026-05-04 | [ From Content to Knowledge: Designing a Curriculum Graph for AI Systems ](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf)([English](https://www.linkedin.com/pulse/graph-rag-when-retrieval-needs-structure-just-text-leandro-rodrigues-3g8gf/)) |
 | 2026-05-13 | [ Designing the Curriculum Graph Architecture Behind AIGORA ](https://www.linkedin.com/pulse/designing-curriculum-graph-architecture-behind-aigora-rodrigues-hlqzf)([English](https://www.linkedin.com/pulse/designing-curriculum-graph-architecture-behind-aigora-rodrigues-hlqzf/)) |
+| 2026-05-19 | [ AIGORA - Designing a Deterministic Tutor Orchestrator ](https://www.linkedin.com/pulse/aigora-designing-deterministic-tutor-orchestrator-leandro-rodrigues-alakf)([English](https://www.linkedin.com/pulse/aigora-designing-deterministic-tutor-orchestrator-leandro-rodrigues-alakf/)) |
 
 ---
 
@@ -42,9 +43,7 @@ This repository works as my **writing portfolio**, showcasing my studies and ref
 | 1️⃣ | Curriculum Graph: Why Knowledge Should Be Modeled as a Graph | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/aigora-engineering-deep-dive-part-1-leandro-rodrigues-qhnhf) |
 | 2️⃣ | From Content to Knowledge: Designing a Curriculum Graph for AI Systems | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/from-content-knowledge-designing-curriculum-graph-ai-rodrigues-uqu9f) |
 | 3️⃣ | Designing the Curriculum Graph Architecture Behind AIGORA | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/designing-curriculum-graph-architecture-behind-aigora-rodrigues-hlqzf) |
-
-
-
+| 4️⃣ | AIGORA - Designing a Deterministic Tutor Orchestrator | us English | [Read on LinkedIn](https://www.linkedin.com/pulse/aigora-designing-deterministic-tutor-orchestrator-leandro-rodrigues-alakf) |
 
 ---
 
